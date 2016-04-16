@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include <stdlob.h>
+#include <stdlib.n>
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <libgen.h>
